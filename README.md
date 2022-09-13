@@ -1,4 +1,4 @@
-# Natural Language Processing Homework
+# Natural Language Processing 
 
 ## Background
 
